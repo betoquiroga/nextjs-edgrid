@@ -1,0 +1,23 @@
+{
+  "name": "nextjs-edgrid",
+  "version": "0.0.1",
+  "description": "A simple boilerplate for Next.js and EDgrid",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Beto Quiroga",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  },
+  "devDependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "ed-grid": "^2.5.10",
+    "node-sass": "^4.9.4"
+  }
+}
